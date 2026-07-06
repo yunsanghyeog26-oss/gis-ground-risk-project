@@ -1,0 +1,9 @@
+geopandas
+pandas
+shapely
+rasterio
+folium
+matplotlib
+numpy
+pyogrio
+rtree
